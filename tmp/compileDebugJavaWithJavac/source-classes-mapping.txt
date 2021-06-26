@@ -1,0 +1,39 @@
+com/example/flixster/databinding/FragmentDetailBinding.java
+ com.example.flixster.databinding.FragmentDetailBinding
+com/example/flixster/MovieDetailsActivity.java
+ com.example.flixster.MovieDetailsActivity
+ com.example.flixster.MovieDetailsActivity$1
+ com.example.flixster.MovieDetailsActivity$2
+ com.example.flixster.MovieDetailsActivity$3
+com/example/flixster/databinding/ActivityMovieDetailsBinding.java
+ com.example.flixster.databinding.ActivityMovieDetailsBinding
+com/example/flixster/MainActivity.java
+ com.example.flixster.MainActivity
+ com.example.flixster.MainActivity$1
+com/example/flixster/models/Movie.java
+ com.example.flixster.models.Movie
+ com.example.flixster.models.Movie$1
+com/example/flixster/adapters/MovieAdapter.java
+ com.example.flixster.adapters.MovieAdapter
+ com.example.flixster.adapters.MovieAdapter$ViewHolder
+com/example/flixster/databinding/ActivityMainBinding.java
+ com.example.flixster.databinding.ActivityMainBinding
+com/example/flixster/MovieTrailerActivity.java
+ com.example.flixster.MovieTrailerActivity
+ com.example.flixster.MovieTrailerActivity$1
+com/example/flixster/Fragments/RecommendedFragment.java
+ com.example.flixster.Fragments.RecommendedFragment
+ com.example.flixster.Fragments.RecommendedFragment$1
+com/example/flixster/Fragments/DetailFragment.java
+ com.example.flixster.Fragments.DetailFragment
+ com.example.flixster.Fragments.DetailFragment$1
+com/example/flixster/adapters/FragmentAdapter.java
+ com.example.flixster.adapters.FragmentAdapter
+com/example/flixster/databinding/ItemMovieBinding.java
+ com.example.flixster.databinding.ItemMovieBinding
+com/example/flixster/databinding/FragmentRecommended2Binding.java
+ com.example.flixster.databinding.FragmentRecommended2Binding
+com/example/flixster/BuildConfig.java
+ com.example.flixster.BuildConfig
+com/example/flixster/databinding/ActivityMovieTrailerBinding.java
+ com.example.flixster.databinding.ActivityMovieTrailerBinding
