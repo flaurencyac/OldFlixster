@@ -2,7 +2,7 @@
 
 **Flixster** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
-Time spent: **12** hours spent in total over 3 days
+Time spent: **18** hours spent in total over 3 days
 
 ## User Stories
 
@@ -17,16 +17,19 @@ The following **required** functionality is completed:
 
 The following **stretch** features are implemented:
 
-* [ ] Improved the user interface by experimenting with styling and coloring.
+* [x] Improved the user interface by experimenting with styling and coloring.
 * [x] Apply rounded corners for the poster or background images using [Glide transformations](https://guides.codepath.org/android/Displaying-Images-with-the-Glide-Library#transformations)
 * [x] Apply the popular [View Binding annotation library](http://guides.codepath.org/android/Reducing-View-Boilerplate-with-ViewBinding) to reduce boilerplate code.
-* [x] Allow video trailers to be played in full-screen using the YouTubePlayerView from the details screen.
 
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 * [x] Overlay of play vector on top of poster image in Movie Details screen to indicate click-to-play
 * [x] Enabled landscape viewing of Movie Details page and YouTubePlayerView
+* [x] Allow video trailers to be played in full-screen using the YouTubePlayerView from the details screen.
+* [x] Implemented fragments, ViewPager, and Fragment Adapter to make clickable tabs that show fragments for Movide Details and Recommended Movies (using the Get Similar Movies API)
+* [x] Used Similar Movies endpoint to show a Recycler View of similar movies within the Movie Details Activity
+* [x] Used Get Details endpoint to show runtime and genres of movies
 
 ## Video Walkthrough
 
